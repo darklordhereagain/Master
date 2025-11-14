@@ -30,4 +30,4 @@ cd Master
 pip install pytz
 pip install -r requirements.txt
 termux-setup-storage
-python Master.py
+python master.py
