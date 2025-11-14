@@ -25,7 +25,7 @@ pkg update && pkg upgrade -y
 pkg install python git -y
 pkg install libandroid-support
 rm -rf Master
-git clone --depth=1 https://github.com/darklordhereagain/Meta-Hunter
+git clone --depth=1 https://github.com/darklordhereagain/Master
 cd Master
 pip install pytz
 pip install -r requirements.txt
